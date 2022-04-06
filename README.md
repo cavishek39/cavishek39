@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **Love watching Cricket and learning new technologies**
 
+![Visitor Count](https://profile-counter.glitch.me/{cavishek39}/count.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avishek-c-211855124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avishek chatterjee" height="30" width="40" /></a>
