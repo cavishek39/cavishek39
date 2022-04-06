@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **Love watching Cricket and learning new technologies**
 
-![Visitor Count](https://profile-counter.glitch.me/{cavishek39}/count.svg)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=cavsihek39&label=Profile%20views&color=ce9927&style=flat" alt="cavsihek39" /> 
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
