@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishek Chatterjee</h1>
 <h3 align="center">A passionate FullStack JS Developer and a Mobile Application Developer from India</h3>
 
-- 🔭 I’m currently working on **Aysea Technologies pvt ltd**
+- 🔭 I’m currently working on **something special**
 
 - 🌱 I’m currently learning **AWS and GraphQL**
 
