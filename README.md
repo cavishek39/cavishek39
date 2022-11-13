@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cavisehk39@gmail.com**
 
-- For more information visit to my website [[https://icy-wave-0f3c73a10.1.azurestaticapps.net/](https://637128df2678766be986a3b5--dynamic-melba-a16e11.netlify.app/)]([https://icy-wave-0f3c73a10.1.azurestaticapps.net/](https://637128df2678766be986a3b5--dynamic-melba-a16e11.netlify.app/)) 
+- For more information visit to my website [https://icy-wave-0f3c73a10.1.azurestaticapps.net/](https://637128df2678766be986a3b5--dynamic-melba-a16e11.netlify.app/)
 
 - ⚡ Fun fact **Love watching Cricket and learning new technologies**
 
