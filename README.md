@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and GraphQL**
 
-- 🤝 I’m looking for help with **I’m looking for help from developers around the world and build a project that would make a positive effect on the globe**
+- 🤝 **I’m looking for help from developers around the world and build a project that would make a positive effect on the globe**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cavishek39](https://github.com/cavishek39)
 
