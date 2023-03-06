@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cavisehk39@gmail.com**
 
-- For more information visit to my website [https://637128df2678766be986a3b5--dynamic-melba-a16e11.netlify.app/](https://637128df2678766be986a3b5--dynamic-melba-a16e11.netlify.app/)
+- For more information visit to my website [https://cavishek.netlify.app/](https://cavishek.netlify.app/)
 
 - ⚡ Fun fact **Love watching Cricket and learning new technologies**
 
