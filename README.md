@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something special**
 
-- 🌱 I’m currently learning **Go, PostGres, LangChain**
+- 🌱 I’m currently learning **Socket Programming, WebRTC, Go, DB Internals,  PostGres, LangChain**
 
 - 🤝 **I’m looking for help from developers around the world and build a project that would make a positive effect on the globe**
 
